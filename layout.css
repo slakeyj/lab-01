@@ -6,7 +6,6 @@ body {
 div {
   float: left;
   text-align: center;
-  line-height: 75px;
 }
 
 .box-a {
@@ -45,34 +44,35 @@ div {
     width: 960px;
     margin: auto;
   }
+
   .box-a {
-    width: 960;
-    height: 100;
-    line-height: 100;
+    width: 960px;
+    height: 100px;
+    line-height: 100px;
   }
   
   .box-b {
-    width: 200;
-    height: 600;
+    width: 200px;
+    height: 600px;
     line-height: 600px;
   }
   
   .box-c-d {
-    width: 480px;
-    height: 125px;
-    line-height: 125px;
+    width: 380px;
+    height: 200px;
+    line-height: 200px;
   }
   
   .box-e-h {
-    width: 240px;
+    width: 190px;
     height: 250px;
     line-height: 250px;
   }
   
   .box-i {
-    width: 480px;
-    height: 80px;
-    line-height: 80px;
+    width: 760px;
+    height: 150px;
+    line-height: 150px;
   }
 }
 
